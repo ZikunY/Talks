@@ -1,0 +1,84 @@
+\begin{thebibliography}{}
+
+\bibitem[Castillo et~al., 2012]{castillo2012needles}
+Castillo, I., van~der Vaart, A., et~al. (2012).
+\newblock Needles and straw in a haystack: Posterior concentration for possibly
+  sparse sequences.
+\newblock {\em The Annals of Statistics}, 40(4):2069--2101.
+
+\bibitem[Dimitromanolakis et~al., 2019]{dimitromanolakis2019sim1000g}
+Dimitromanolakis, A., Xu, J., Krol, A., and Briollais, L. (2019).
+\newblock sim1000g: a user-friendly genetic variant simulator in r for
+  unrelated individuals and family-based designs.
+\newblock {\em BMC bioinformatics}, 20(1):26.
+
+\bibitem[Fachal et~al., 2020]{fachal2020fine}
+Fachal, L., Aschard, H., Beesley, J., Barnes, D.~R., Allen, J., Kar, S.,
+  Pooley, K.~A., Dennis, J., Michailidou, K., Turman, C., et~al. (2020).
+\newblock Fine-mapping of 150 breast cancer risk regions identifies 191 likely
+  target genes.
+\newblock {\em Nature genetics}, 52(1):56--73.
+
+\bibitem[Jansen et~al., 2019]{jansen2019genome}
+Jansen, I.~E., Savage, J.~E., Watanabe, K., Bryois, J., Williams, D.~M.,
+  Steinberg, S., Sealock, J., Karlsson, I.~K., H{\"a}gg, S., Athanasiu, L.,
+  et~al. (2019).
+\newblock Genome-wide meta-analysis identifies new loci and functional pathways
+  influencing alzheimer's disease risk.
+\newblock {\em Nature genetics}, 51(3):404--413.
+
+\bibitem[Kichaev et~al., 2017]{kichaev2017improved}
+Kichaev, G., Roytman, M., Johnson, R., Eskin, E., Lindstroem, S., Kraft, P.,
+  and Pasaniuc, B. (2017).
+\newblock Improved methods for multi-trait fine mapping of pleiotropic risk
+  loci.
+\newblock {\em Bioinformatics}, 33(2):248--255.
+
+\bibitem[Kircher et~al., 2014]{kircher2014general}
+Kircher, M., Witten, D.~M., Jain, P., O'roak, B.~J., Cooper, G.~M., and
+  Shendure, J. (2014).
+\newblock A general framework for estimating the relative pathogenicity of
+  human genetic variants.
+\newblock {\em Nature genetics}, 46(3):310--315.
+
+\bibitem[Schaid et~al., 2018]{schaid2018genome}
+Schaid, D.~J., Chen, W., and Larson, N.~B. (2018).
+\newblock From genome-wide associations to candidate causal variants by
+  statistical fine-mapping.
+\newblock {\em Nature Reviews Genetics}, 19(8):491--504.
+
+\bibitem[Wang et~al., 2020]{wang2019simple}
+Wang, G., Sarkar, A.~K., Carbonetto, P., and Stephens, M. (2020).
+\newblock A simple new approach to variable selection in regression, with
+  application to genetic fine-mapping.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 82(5):1273--1300.
+
+\bibitem[Weissbrod et~al., 2020]{weissbrod2020functionally}
+Weissbrod, O., Hormozdiari, F., Benner, C., Cui, R., Ulirsch, J., Gazal, S.,
+  Schoech, A.~P., Van De~Geijn, B., Reshef, Y., M{\'a}rquez-Luna, C., et~al.
+  (2020).
+\newblock Functionally informed fine-mapping and polygenic localization of
+  complex trait heritability.
+\newblock {\em Nature Genetics}, pages 1--9.
+
+\bibitem[Womack et~al., 2015]{womack2015model}
+Womack, A.~J., Fuentes, C., and Taylor-Rodriguez, D. (2015).
+\newblock Model space priors for objective sparse bayesian regression.
+\newblock {\em arXiv preprint arXiv:1511.04745}.
+
+\bibitem[Yang et~al., 2021]{yang2021semisupervised}
+Yang, Z., Wang, C., Erjavec, S., Petukhova, L., Christiano, A., and
+  Ionita-Laza, I. (2021).
+\newblock A semisupervised model to predict regulatory effects of genetic
+  variants at single nucleotide resolution using massively parallel reporter
+  assays.
+\newblock {\em Bioinformatics}, 37(14):1953--1962.
+
+\bibitem[Zhou and Troyanskaya, 2015]{zhou2015predicting}
+Zhou, J. and Troyanskaya, O.~G. (2015).
+\newblock Predicting effects of noncoding variants with deep learning--based
+  sequence model.
+\newblock {\em Nature methods}, 12(10):931.
+
+\end{thebibliography}
